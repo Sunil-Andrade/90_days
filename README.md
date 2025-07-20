@@ -27,9 +27,9 @@ This Flutter app helps you stay consistent with your daily goals using a clean a
 </p>
 
 <p float="left">
-  <img src="assets/screenshot4.jpeg" height="400"/>
   <img src="assets/screenshot5.jpeg" height="400"/>
   <img src="assets/screenshot6.jpeg" height="400"/>
+  <img src="assets/screenshot4.jpeg" height="400"/>
 </p>
 
 ---
