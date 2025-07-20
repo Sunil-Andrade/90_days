@@ -21,9 +21,9 @@ This Flutter app helps you stay consistent with your daily goals using a clean a
 <!-- Replace these image URLs or file paths with your actual screenshots -->
 
 <p float="left">
-  <img src="assets/screenshot1.png" height="400"/>
-  <img src="assets/screenshot2.png" height="400"/>
-  <img src="assets/screenshot3.png" height="400"/>
+  <img src="assets/screenshot1.jpeg" height="400"/>
+  <img src="assets/screenshot2.jpeg" height="400"/>
+  <img src="assets/screenshot3.jpeg" height="400"/>
 </p>
 
 ![Screenshot 1](assets/screenshot4.jpeg)
