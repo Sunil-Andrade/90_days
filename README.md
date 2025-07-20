@@ -45,8 +45,8 @@ This Flutter app helps you stay consistent with your daily goals using a clean a
 - **Flutter**
 - **Dart**
 - **Clean Architecture (Presentation, Domain, Data layers)**
-- **Provider / Riverpod / Bloc** (← if used, add the one you used)
-- **Local Storage** (e.g., Hive, SharedPreferences)
+- **Bloc** 
+- **Local Storage Hive**
 
 ---
 
@@ -59,4 +59,4 @@ This Flutter app helps you stay consistent with your daily goals using a clean a
 
 ---
 
-Thanks for checking out the app! Feedback and contributions are welcome.
+Thanks for checking out the app! I want you to know that I appreciate your feedback.
