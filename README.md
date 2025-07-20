@@ -11,7 +11,6 @@ This Flutter app helps you stay consistent with your daily goals using a clean a
 - 🔥 **Streak System** – stay motivated by maintaining habit streaks
 - 👤 **User Profile** – see your progress and stats
 - 📊 **Completed & Pending Tasks View**
-- 🌙 **Dark Mode Support**
 - 🔒 **Offline-First Experience**
 - 🧱 **Built with Clean Architecture** – for better separation of concerns and testability
 
@@ -21,10 +20,17 @@ This Flutter app helps you stay consistent with your daily goals using a clean a
 
 <!-- Replace these image URLs or file paths with your actual screenshots -->
 
-<img src="assets/screenshot1.png" width="200"/>    
-<img src="assets/screenshot2.png" width="200"/>    
-<img src="assets/screenshot3.png" width="200"/>    
-<img src="assets/screenshot4.png" width="200"/>
+![Screenshot 1](assets/screenshot1.jpeg)
+
+![Screenshot 1](assets/screenshot2.jpeg)
+
+![Screenshot 1](assets/screenshot3.jpeg)
+
+![Screenshot 1](assets/screenshot4.jpeg)
+
+![Screenshot 1](assets/screenshot5.jpeg)
+
+![Screenshot 1](assets/screenshot6.jpeg)
 
 ---
 
